@@ -1,7 +1,7 @@
 # Nearby Places Finder 🌍
 
 ## 🌐 Live Demo
-https://your-vercel-link.vercel.app
+nearby-project-alpha.vercel.app
 
 A smart web application to discover nearby places with categorized recommendations, ratings, and a clean responsive UI.
 
